@@ -39,4 +39,4 @@ To promote Anubis Data, we set up a website and created a promotional video expl
 
 Check out the promo video on [YouTube](https://youtu.be/drViT-59eOc).
 
-Thanks for reading! If you’d like to read more thoughts on design work, head back to the portfolio [here](https://halcha.github.io/portfolio).
+Thanks for reading! If you’d like to read more thoughts on design work, head back to the portfolio [here](/).
