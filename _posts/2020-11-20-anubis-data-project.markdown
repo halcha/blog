@@ -4,8 +4,7 @@ title:  "Anubis Data"
 date:   2020-11-20 9:00:00 +1000
 categories: design
 ---
-### Context
-CoreData, a global market research consultancy, was looking to create a network through which product managers could understand which financial advisers were interested in their product. They brought me on to help figure out this could be done.
+CoreData is a global market research consultancy. They were looking to create a network that lets product managers understand which financial advisers were interested in their product. They brought me on to help figure out this could be done.
 
 ### Aim
 The network consisted of multiple dimensions that product managers needed to interact with to find the niche for their product. The aim was to provide a medium between product managers and the network that was efficient, intuitive and accessible
@@ -14,7 +13,7 @@ The network consisted of multiple dimensions that product managers needed to int
 We designed and developed a webapp that organises financial advisers into groups based on what products they’d be interested in. We wanted this webapp to fit in with a product managers workflow. User Testing and Design iteration based on feedback was the foundation of the design process.
 
 ### Team
-The team had four members working on data analysis, design and app development. My roles were distilling user needs into actionable design heuristics, creating the design language for the app, mapping user interaction to information architecture and developing the landing page.
+There was a team of four working on data analysis, design and app development. My roles were distilling user needs into actionable design heuristics, creating the design language for the app, mapping user interaction to information architecture and developing the landing page.
 
 ### Design Process
 ![image of a digital post it note board](/assets/images/anubis-work-1.png)
