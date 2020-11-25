@@ -13,3 +13,5 @@ categories: design
 ### Design Process
 
 Here's a video explaining the process [here](https://youtu.be/SqXB4hmVizc).
+
+Thanks for reading! If you’d like to read more thoughts on design work, head back to the portfolio [here](/).
