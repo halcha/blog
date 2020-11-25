@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Interdisciplinary Redesign"
-date:   2020-11-20 9:00:00 +1000
+date:   2020-07-31 9:00:00 +1000
 categories: design
 ---
 ### Aim

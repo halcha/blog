@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Anubis Data"
-date:   2020-11-20 9:00:00 +1000
+date:   2020-10-25 9:00:00 +1000
 categories: design
 ---
 CoreData is a global market research consultancy. They wanted to create a network that lets financial product managers understand which financial advisers were interested in their product. They brought me on to help figure out this could be done.
