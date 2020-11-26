@@ -20,7 +20,7 @@ We created an assessment brief, an introductory video explaining the concept of 
 This was conducted in collaboration with members the FASS Faculty as subject matter experts. We created the materials according our the principles of epistemology and iterated the design artefacts according to their feedback.
 
 ### Design Process
-![a picture of banathy's dynamics of divergence and convergence](/blog/assets/images/dd-int.jpg)
+![a picture of banathy's dynamics of divergence and convergence](/blog/assets/images/dd_int.png)
 We took precedents from existing design literature as we had experience in applying these principles to collaborative environments.
 
 ![a picture of preceding design principles](/blog/assets/images/ps-int.png)
