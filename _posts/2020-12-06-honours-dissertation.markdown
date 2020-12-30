@@ -8,6 +8,6 @@ For the past year, I've been working on a design disseration about collaborative
 
 To infinity and beyond 
 
-[Meta-Design as a Catalyst of Effective Engagement to Encourage Learning Motivation at Scale: A Creative Coding Project](/blog/assets/images/dissertation-sam-hall.pdf)
+[Meta-Design as a Catalyst of Effective Engagement to Encourage Learning Motivation at Scale: A Creative Coding Project](/blog/assets/dissertation-sam-hall.pdf)
 
 Thanks for reading! If you’d like to read more thoughts on design work, head back to the portfolio [here](/).
