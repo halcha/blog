@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;1,400&display=swap');
+
 $brand-color:         #89deff;
+$highlight-color:     #89deff;
 $highlight:           lighten($brand-color, 35%);
 $text-color:          #0b0404;
 $muted-text-color:    #41484a;
-$font-family:         "EB Garamond", Garamond, "Times New Roman", serif;
+$font-family:         "Montserrat", sans-serif;
 
 $on-bigphone:         375px;
 $on-tablet:           768px;
