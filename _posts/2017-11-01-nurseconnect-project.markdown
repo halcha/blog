@@ -6,6 +6,7 @@ categories: design
 ---
 
 During our graduating year, a group of students were approached by the faculty to assist in a project in collaboration with the Australian Government's Department of Health. This project was to research ways to alleviate stress in the hospital.
+You can check out the final solution [here](https://youtu.be/Yx6J1pdz-AQ).
 
 ### Aim
 
@@ -55,9 +56,3 @@ This feedback helped us understand we needed something that integrates into curr
 ![an insitu mockup of NurseConnect from the perspective of support services](/blog/assets/images/p5-1-vad.png)
 ![an insitu mockup of NurseConnect from the perspective of a Nurse](/blog/assets/images/p5-2-vad.png)
 This led to a software based approach with feedback being captured through emotional recognition software for Nurses who chose to opt-in. This was supported as it maintained the benefits of a feedback system for stress alleviation without causing any interference in a Nurse's usual workflow. At our graduation the team was awarded the HCI award for excellence in service design.
-
-### Promotion
-
-We created a video explaining the final solution [here](https://youtu.be/Yx6J1pdz-AQ).
-
-Thanks for reading! If you’d like to read more thoughts on design work, head back to the portfolio [here](/).
