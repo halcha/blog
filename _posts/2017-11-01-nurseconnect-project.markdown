@@ -6,7 +6,7 @@ categories: design
 ---
 
 During our graduating year, a group of students were approached by the faculty to assist in a project in collaboration with the Australian Government's Department of Health. This project was to research ways to alleviate stress in the hospital.
-You can check out the final solution [here](https://youtu.be/Yx6J1pdz-AQ).
+You can check out the final solution [here on Youtube](https://youtu.be/Yx6J1pdz-AQ).
 
 ### Aim
 

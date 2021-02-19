@@ -6,6 +6,7 @@ categories: design
 ---
 
 The University of Sydney Library was hosting Welcome Week at the beginning of Semester One this year. Every year, students are invited to explore the library to get a feel of how it works and how they can effectively use the library during their degree. We wanted to make this experience inviting for students who weren't naturally interested in exploring the library.
+You can check out the web page [here on GitHub](https://usyd-risu.github.io/escape_room/escape_room_2020/). Answers are at the bottom of this post.
 
 ### Aim
 We needed to Increase interest in the library by better promoting the benefits of understanding the hidden treasures of knowledge and history in an inviting context. The solution also needed to fit the theme of welcome week 'Curiouser and Curiouser'.

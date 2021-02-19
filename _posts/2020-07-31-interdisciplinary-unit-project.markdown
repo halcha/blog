@@ -6,6 +6,7 @@ categories: design
 ---
 
 The library was approached by the faculty of arts and social sciences (FASS) to create an addition to the curriculum for a course. This course was based around learning effective Interdisciplinary collaboration: learning how to conduct effective research alongside people with different educational backgrounds.
+You can check out a video that introduces students to one part of their unit of study [here on Youtube](https://youtu.be/SqXB4hmVizc).
 
 ### Aim
 
@@ -32,6 +33,3 @@ This was simplified into a set of steps that could be applied to collaborative e
 These steps were then applied to the specific context of the FASS3999 course
 
 You can find details about the course on the university website [here](https://www.sydney.edu.au/courses/units-of-study/2020/fass/fass3999.html).
-Here's a video explaining the process [here](https://youtu.be/SqXB4hmVizc).
-
-Thanks for reading! If you’d like to read more thoughts on design work, head back to the portfolio [here](/).

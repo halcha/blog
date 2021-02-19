@@ -5,6 +5,7 @@ date:   2020-10-25 9:00:00 +1000
 categories: design
 ---
 CoreData is a global market research consultancy. They wanted to create a network that lets financial product managers understand which financial advisers were interested in their product. They brought me on to help figure out this could be done.
+You can check out the promo video [here on YouTube](https://youtu.be/drViT-59eOc).
 
 ### Aim
 The network consisted of multiple dimensions that product managers needed to interact with to find the niche for their product. The aim was to provide a medium between product managers and the network that was efficient, intuitive and accessible.
