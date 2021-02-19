@@ -6,6 +6,7 @@ categories: design
 ---
 
 The library was approached by the faculty of arts and social sciences (FASS) to create an addition to the curriculum for a course. This course was based around learning effective Interdisciplinary collaboration: learning how to conduct effective research alongside people with different educational backgrounds.
+
 You can check out a video that introduces students to one part of their unit of study [here on Youtube](https://youtu.be/SqXB4hmVizc).
 
 ### Aim
