@@ -8,8 +8,4 @@ For the past year, I've been working on a design dissertation about collaborativ
 
 ### Paper
 
-[Meta-Design as a Catalyst of Effective Engagement to Encourage Learning Motivation at Scale: A Creative Coding Project](/blog/assets/dissertation-sam-hall.pdf)
-
-
-
-If you’d like to read more thoughts on design work, head back to the portfolio [here](/).
+[Meta-Design as a Catalyst of Effective Engagement to Encourage Learning Motivation at Scale: A Creative Coding Project](/blog/assets/dissertation-sam-hall.pdf).
