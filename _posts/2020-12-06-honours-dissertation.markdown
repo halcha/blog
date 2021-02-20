@@ -4,7 +4,7 @@ title:  "Honours Dissertation"
 date:   2020-12-6 9:00:00 +1000
 categories: design
 ---
-For the past year, I've been working on a design disseration about collaborative systems in online learning. It's been an amazing experience.
+For the past year, I've been working on a design dissertation about collaborative systems in online learning. It's been an amazing experience.
 
 ### Paper
 
