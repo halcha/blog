@@ -12,10 +12,10 @@ You can check out the promo video [here on YouTube](https://youtu.be/drViT-59eOc
 The network consisted of multiple dimensions that product managers needed to interact with to find the niche for their product. The aim was to provide a medium between product managers and the network that was efficient, intuitive and accessible.
 
 ### Solution
-We designed and developed a webapp that organise the network into segments based on what products they’d be interested in. This webapp was to designed to fit in with a product manager's daily workflow. User testing and feedback based iteration was the foundation of the design process.
+We designed and developed a webapp that organise the network into segments based on what characteristics to create mutually beneficial working relationships. This webapp was to designed to fit in with a product manager's daily workflow. User testing and feedback based iteration was the foundation of the design process.
 
 ### Team
-There was a team of four working on data analysis, design and app development. My roles were distilling user needs into actionable design heuristics, creating the design language for the app, mapping user interaction to information architecture and developing the landing page.
+We were an agile team of four working on data analysis, design and app development. My roles were distilling user needs into actionable design heuristics, creating the design language for the app, mapping user interaction to information architecture and assisting with development.
 
 ### Design Process
 ![image of a digital post it note board](/blog/assets/images/anubis-work-1.png)
@@ -23,8 +23,6 @@ To keep track of ideas and potential avenues we used a miro board. This gave us 
 
 ![an image of a figma workspace](/blog/assets/images/figma-workspace.png)
 To give the development phase a visual anchor we mocked up the site in figma and developed click through prototypes for client meetings and user testing.
-
-![an initial iteration of the anubis design](/blog/assets/images/start-iteration-anubis.png)
 We developed an experimental mockup in figma to get feedback quickly from a conceptual perspective.
 
 ![a user flow diagram](./assets/images/user-flow-anubis.png)
